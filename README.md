@@ -100,3 +100,63 @@ print(me.motto())
 ### ⭐ Thanks for visiting my profile ⭐
 
 </div>
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### ⚙️ Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,mysql,git,github" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChanduChowday25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduChowday25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ChanduChowday25&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduChowday25&theme=tokyo-night&hide_border=true"/>
+
+</div>
