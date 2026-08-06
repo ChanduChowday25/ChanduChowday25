@@ -58,9 +58,6 @@ I love transforming ideas into practical software while continuously learning ne
 - LangGraph
 - Agentic AI
 - System Design
-- Advanced Python
-- FastAPI
-- Spring Boot
 
 🎯 2026 Goals
 
@@ -68,30 +65,6 @@ I love transforming ideas into practical software while continuously learning ne
 - Contribute to Open Source
 - Strengthen Data Structures & Algorithms
 - Become an AI Engineer
-- Solve 500+ coding problems
-
----
-
-# ⚡ Fun Fact
-
-```python
-class Chandu:
-
-    def __init__(self):
-        self.role = "Python & Software Developer"
-        self.learning = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Backend Development",
-            "System Design"
-        ]
-
-    def motto(self):
-        return "Building AI That Solves Real Problems."
-
-me = Chandu()
-print(me.motto())
-```
 
 ---
 
