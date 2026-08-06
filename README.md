@@ -223,4 +223,117 @@ Modern developer portfolio showcasing projects and skills.
 <a href="https://portfolio-livid-five-83.vercel.app/">
 <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💼 Job Recommendation System
+
+AI-powered job recommendation platform built using **Spring Boot** that connects candidates with suitable job opportunities based on their skills.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `MySQL` `REST API`
+
+✨ Features
+
+- Smart Job Matching
+- Candidate Management
+- Job Management
+- Skill Mapping
+- RESTful APIs
+
+<p align="center">
+
+<a href="https://github.com/ChanduChowday25/Job_Recommondation_System">
+<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+### 📄 RAG Application
+
+Retrieval-Augmented Generation application that allows users to upload documents and ask questions using AI-powered semantic search.
+
+**Tech Stack**
+
+`Python` `LangChain` `FastAPI` `Vector Database`
+
+✨ Features
+
+- Document Upload
+- Semantic Search
+- AI Chat
+- Context Retrieval
+- FastAPI Backend
+
+<p align="center">
+
+<a href="https://github.com/ChanduChowday25/Rag-Application">
+<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🌐 Personal Portfolio
+
+Modern portfolio website showcasing my projects, technical skills, and professional journey.
+
+**Highlights**
+
+- Responsive Design
+- Modern UI
+- Project Showcase
+- Skills Section
+- Contact Information
+
+<p align="center">
+
+<a href="https://portfolio-livid-five-83.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ChanduChowday25/My_Portfolio">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💡 Currently Building
+
+- 🤖 Multi-Agent AI Systems
+- 🧠 Large Language Model Applications
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & Backend Services
+- ☁️ Production-Ready AI Applications
+
 
