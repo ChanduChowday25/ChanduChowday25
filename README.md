@@ -80,19 +80,19 @@ I love transforming ideas into practical software while continuously learning ne
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,,html" />
 </p>
 
 ### ⚙️ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi,springboot,mysql,git,github,Ms-Excel" />
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=Pandas,Numpy,pytorch" />
 </p>
 
 <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -169,35 +169,11 @@ I love transforming ideas into practical software while continuously learning ne
 
 ---
 
-# 📌 More Projects Coming Soon
+# 📌  Project Coming Soon
 
 🚀 AgentOS
 
 Multi-Agent AI Platform powered by LLMs.
-
----
-
-📄 RAG Document Assistant
-
-Chat with your own documents using AI.
-
----
-
-🧠 Vitamin Deficiency Prediction
-
-Machine Learning model for vitamin deficiency prediction.
-
----
-
-🌐 Personal Portfolio
-
-Modern developer portfolio showcasing projects and skills.
-
-<a href="https://portfolio-livid-five-83.vercel.app/">
-<img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
----
-
 # 🚀 Featured Projects
 
 <div align="center">
