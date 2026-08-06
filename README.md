@@ -160,3 +160,67 @@ print(me.motto())
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduChowday25&theme=tokyo-night&hide_border=true"/>
 
 </div>
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 💼 Job Recommendation System
+
+### AI-powered platform that intelligently matches candidates with suitable jobs based on their skills and qualifications.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+🔹 Candidate Registration
+
+🔹 Job Posting Management
+
+🔹 Skill Mapping
+
+🔹 Smart Job Recommendations
+
+🔹 REST API Backend
+
+🔹 Database Integration
+
+<br>
+
+<a href="https://github.com/ChanduChowday25/Job_Recommondation_System">
+<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📌 More Projects Coming Soon
+
+🚀 AgentOS
+
+Multi-Agent AI Platform powered by LLMs.
+
+---
+
+📄 RAG Document Assistant
+
+Chat with your own documents using AI.
+
+---
+
+🧠 Vitamin Deficiency Prediction
+
+Machine Learning model for vitamin deficiency prediction.
+
+---
+
+🌐 Personal Portfolio
+
+Modern developer portfolio showcasing projects and skills.
+
+<a href="https://portfolio-livid-five-83.vercel.app/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
