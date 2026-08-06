@@ -325,8 +325,59 @@ Modern portfolio website showcasing my projects, technical skills, and professio
 </table>
 
 </div>
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChanduChowday25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 
 ---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/chandu-bollepalli-5314993">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-livid-five-83.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:chandubollepalli86@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+> **"Technology becomes meaningful when it solves real-world problems."**
+
+I enjoy building scalable software and AI-powered applications that create practical impact. Every project I work on is an opportunity to learn, improve, and contribute to the developer community.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider ⭐ starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
 
 # 💡 Currently Building
 
