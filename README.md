@@ -81,7 +81,7 @@ I love transforming ideas into practical software while continuously learning ne
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,,html" />
+<img src="https://skillicons.dev/icons?i=python,java,HTML" />
 </p>
 
 ### ⚙️ Frameworks & Technologies
