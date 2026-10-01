@@ -87,7 +87,7 @@ I love transforming ideas into practical software while continuously learning ne
 ### ⚙️ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,springboot,mysql,git,github,Ms-Excel" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github,Ms-Excel" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -95,7 +95,6 @@ I love transforming ideas into practical software while continuously learning ne
 <p>
 <img src="https://skillicons.dev/icons?i=Pandas,Numpy,pytorch" />
 </p>
-
 <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge"/>
@@ -142,8 +141,8 @@ I love transforming ideas into practical software while continuously learning ne
 
 ### AI-powered platform that intelligently matches candidates with suitable jobs based on their skills and qualifications.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br>
