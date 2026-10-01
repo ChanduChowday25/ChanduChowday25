@@ -98,7 +98,7 @@ I love transforming ideas into practical software while continuously learning ne
 ### 🤖 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=Pandas,Numpy,pytorch" />
+<img src="https://skillicons.dev/icons?i=Pandas,NeuralNetworks,ML" />
 </p>
 <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
@@ -108,18 +108,6 @@ I love transforming ideas into practical software while continuously learning ne
 </div>
 
 ---
-
-
-
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduChowday25&theme=tokyo-night&hide_border=true"/>
-
-</div>
 # 🚀 Featured Projects
 
 <div align="center">
