@@ -258,16 +258,6 @@ Modern portfolio website showcasing my projects, technical skills, and professio
 </div>
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChanduChowday25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 📬 Let's Connect
 
 <div align="center">
