@@ -1,15 +1,13 @@
-<div align="center">
-</div>
-<!-- Banner will be added later -->
-<br>
+<table>
+<tr>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Chandu
+<td width="65%" valign="middle">
 
-### Python & Software Developer
+<h1>👋 Hi, I'm Chandu</h1>
 
-### AI • Machine Learning • Backend Development
+<h3>Python & Software Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+AI+That+Solves+Real+Problems;Python+Developer;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+<h3>AI • Machine Learning • Backend Development</h3>
 
 <br>
 
@@ -25,9 +23,16 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
----
+<td width="35%" align="center">
+
+<img src="./chandu_portfolio_image.png" width="260" alt="Chandu"/>
+
+</td>
+
+</tr>
+</table>
 
 # 💫 About Me
 
