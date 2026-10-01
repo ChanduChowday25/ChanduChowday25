@@ -1,4 +1,4 @@
-
+<table>
 <tr>
 
 <td width="65%" valign="middle">
@@ -32,6 +32,7 @@
 </td>
 
 </tr>
+<table>
 
 # 💫 About Me
 
