@@ -1,341 +1,78 @@
+<!-- ========================= HEADER ========================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:9d7cd8&height=180&section=header&text=Chandu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descSize=16&descAlignY=60" alt="Chandu - Python Developer | AI/ML Engineer | Backend Developer" width="100%"/> <a href="https://github.com/ChanduChowday25/ChanduChowday25"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=BB9AF7&center=true&vCenter=true&width=600&height=40&lines=Python+%26+Software+Developer;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Backend+Development;Building+RAG+apps+and+AI+agents" alt="Typing animation" /> </a> <br/>
 
-<div align="center">
-</div>
-<!-- Banner will be added later -->
-<br>
+<a href="https://portfolio-livid-five-83.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c5cbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>  
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Chandu
+<!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn profile slug -->
 
-### Python & Software Developer
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-7c5cbf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
 
-### AI • Machine Learning • Backend Development
+<!-- Replace YOUR_EMAIL with your email address -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+AI+That+Solves+Real+Problems;Python+Developer;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7c5cbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br>
+</div> <br/> <!-- ========================= ABOUT ========================= -->
+About Me
+<table> <tr> <td width="220" align="center" valign="middle"> <!-- PROFILE IMAGE PLACEHOLDER --> <!-- Replace the image URL below with your GitHub profile image --> <img src="YOUR_PROFILE_IMAGE_URL" width="200" alt="Chandu"/> </td> <td valign="middle"> <p>I'm Chandu, a developer who enjoys building practical software and AI systems rather than just collecting technologies.</p> <p>I work mainly with <b>Python</b> across <b>machine learning, deep learning and backend development</b>, and I'm particularly interested in <b>RAG applications</b> and <b>AI agents</b>. I like taking an idea from a model or a notebook to a working API and a usable application.</p> </td> </tr> </table> <br/> <!-- ========================= CURRENT FOCUS ========================= -->
+Current Focus
+AI Engineering: Agentic AI, RAG and LLM-powered applications
+Backend Development: FastAPI, REST APIs and database-backed services
+System Design: structuring scalable, maintainable systems
+Production-ready AI: moving AI projects beyond demos into reliable applications
 
-<a href="https://portfolio-livid-five-83.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+2026 Goals
 
-<a href="https://www.linkedin.com/in/chandu-bollepalli-5314993" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:chandubollepalli86@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 👨‍💻 Who Am I?
-
-I'm a passionate **Python & Software Developer** who enjoys building intelligent applications that solve real-world problems.
-
-My interests include:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📄 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Agents
-- 🌐 Backend Development
-- 💻 Software Engineering
-
-I love transforming ideas into practical software while continuously learning new technologies and improving my development skills.
-
-<br>
-
----
-
-# 🚀 Current Focus
-
-🌱 Currently Learning
-
-- LangGraph
-- Agentic AI
-- System Design
-
-🎯 2026 Goals
-
-- Build production-ready AI applications
-- Contribute to Open Source
-- Strengthen Data Structures & Algorithms
-- Become an AI Engineer
-
----
-
+Ship AgentOS, a multi-agent AI platform
+Build and deploy more end-to-end FastAPI + AI projects
+Strengthen system design fundamentals
+Land a Software Developer / AI-ML role
+<br/> <!-- ========================= TECH STACK ========================= -->
+Tech Stack
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+Programming
 
-</div>
-# 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
+<br/><br/>
+
+Backend & Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,mysql,git,github&theme=dark&perline=5" alt="FastAPI, Spring Boot, MySQL, Git, GitHub"/> <br/> <img src="https://img.shields.io/badge/Swagger-7c5cbf?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
+
+<br/><br/>
+
+AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,pandas,numpy&theme=dark&perline=3" alt="PyTorch, Pandas, NumPy"/> <br/> <img src="https://img.shields.io/badge/Machine_Learning-7c5cbf?style=for-the-badge" alt="Machine Learning"/> <img src="https://img.shields.io/badge/Neural_Networks-7c5cbf?style=for-the-badge" alt="Neural Networks"/> <img src="https://img.shields.io/badge/Deep_Learning-7c5cbf?style=for-the-badge" alt="Deep Learning"/> <br/> <img src="https://img.shields.io/badge/LangChain-7c5cbf?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/RAG-7c5cbf?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Agentic_AI-7c5cbf?style=for-the-badge" alt="Agentic AI"/> </div> <br/> <!-- ========================= FEATURED PROJECTS ========================= -->
+Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/ChanduChowday25/Rag-Application">RAG Application</a></h3> <p>Retrieval-augmented generation app that answers questions from documents, using LangChain, a vector database and a FastAPI backend.</p> <img src="https://img.shields.io/badge/Python-3b3b5c?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/LangChain-3b3b5c?style=flat-square" alt="LangChain"/> <img src="https://img.shields.io/badge/FastAPI-3b3b5c?style=flat-square" alt="FastAPI"/> <img src="https://img.shields.io/badge/Vector_DB-3b3b5c?style=flat-square" alt="Vector Database"/> <br/><br/> <a href="https://github.com/ChanduChowday25/Rag-Application">Repository</a> </td> <td width="50%" valign="top"> <h3><a href="https://github.com/ChanduChowday25/Job_Recommondation_System">Job Recommendation System</a></h3> <p>Backend platform that recommends jobs to users, exposing REST APIs on top of a MySQL database.</p> <img src="https://img.shields.io/badge/Java-3b3b5c?style=flat-square" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-3b3b5c?style=flat-square" alt="Spring Boot"/> <img src="https://img.shields.io/badge/MySQL-3b3b5c?style=flat-square" alt="MySQL"/> <img src="https://img.shields.io/badge/REST_API-3b3b5c?style=flat-square" alt="REST API"/> <br/><br/> <a href="https://github.com/ChanduChowday25/Job_Recommondation_System">Repository</a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>AgentOS &nbsp;<img src="https://img.shields.io/badge/Currently_Building-bb9af7?style=flat-square" alt="Currently Building"/></h3> <p>Multi-Agent AI Platform for orchestrating specialized AI agents using LLMs.</p> <img src="https://img.shields.io/badge/Python-3b3b5c?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/Agentic_AI-3b3b5c?style=flat-square" alt="Agentic AI"/> <img src="https://img.shields.io/badge/LLMs-3b3b5c?style=flat-square" alt="LLMs"/> </td> <td width="50%" valign="top"> <h3><a href="https://portfolio-livid-five-83.vercel.app/">Personal Portfolio</a></h3> <p>Personal portfolio website showcasing my projects and skills, deployed on Vercel.</p> <img src="https://img.shields.io/badge/Vercel-3b3b5c?style=flat-square" alt="Vercel"/> <br/><br/> <a href="https://portfolio-livid-five-83.vercel.app/">Live</a> &nbsp;|&nbsp; <a href="https://github.com/ChanduChowday25/My_Portfolio">Repository</a> </td> </tr> </table> <br/> <!-- ========================= GITHUB ANALYTICS ========================= -->
+GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ChanduChowday25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/> &nbsp; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduChowday25&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ChanduChowday25&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduChowday25&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChanduChowday25&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Achievements"/> </div> <br/> <!-- ========================= CONTACT ========================= -->
+Contact
 <div align="center">
 
-### 👨‍💻 Programming Languages
+<a href="https://portfolio-livid-five-83.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c5cbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>  
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,,html" />
-</p>
+<!-- Replace YOUR_LINKEDIN_USERNAME with your LinkedIn profile slug -->
 
-### ⚙️ Frameworks & Technologies
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-7c5cbf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,springboot,mysql,git,github,Ms-Excel" />
-</p>
+<!-- Replace YOUR_EMAIL with your email address -->
 
-### 🤖 AI & Machine Learning
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7c5cbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=Pandas,Numpy,pytorch" />
-</p>
-
-<img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChanduChowday25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduChowday25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ChanduChowday25&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanduChowday25&theme=tokyo-night&hide_border=true"/>
-
-</div>
-# 🚀 Featured Projects
-
-<div align="center">
-
-## 💼 Job Recommendation System
-
-### AI-powered platform that intelligently matches candidates with suitable jobs based on their skills and qualifications.
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br>
-
-🔹 Candidate Registration
-
-🔹 Job Posting Management
-
-🔹 Skill Mapping
-
-🔹 Smart Job Recommendations
-
-🔹 REST API Backend
-
-🔹 Database Integration
-
-<br>
-
-<a href="https://github.com/ChanduChowday25/Job_Recommondation_System">
-<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📌  Project Coming Soon
-
-🚀 AgentOS
-
-Multi-Agent AI Platform powered by LLMs.
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 💼 Job Recommendation System
-
-AI-powered job recommendation platform built using **Spring Boot** that connects candidates with suitable job opportunities based on their skills.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `MySQL` `REST API`
-
-✨ Features
-
-- Smart Job Matching
-- Candidate Management
-- Job Management
-- Skill Mapping
-- RESTful APIs
-
-<p align="center">
-
-<a href="https://github.com/ChanduChowday25/Job_Recommondation_System">
-<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-### 📄 RAG Application
-
-Retrieval-Augmented Generation application that allows users to upload documents and ask questions using AI-powered semantic search.
-
-**Tech Stack**
-
-`Python` `LangChain` `FastAPI` `Vector Database`
-
-✨ Features
-
-- Document Upload
-- Semantic Search
-- AI Chat
-- Context Retrieval
-- FastAPI Backend
-
-<p align="center">
-
-<a href="https://github.com/ChanduChowday25/Rag-Application">
-<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-### 🌐 Personal Portfolio
-
-Modern portfolio website showcasing my projects, technical skills, and professional journey.
-
-**Highlights**
-
-- Responsive Design
-- Modern UI
-- Project Showcase
-- Skills Section
-- Contact Information
-
-<p align="center">
-
-<a href="https://portfolio-livid-five-83.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ChanduChowday25/My_Portfolio">
-<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChanduChowday25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/chandu-bollepalli-5314993">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-livid-five-83.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:chandubollepalli86@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💭 Developer Philosophy
-
-<div align="center">
-
-> **"Technology becomes meaningful when it solves real-world problems."**
-
-I enjoy building scalable software and AI-powered applications that create practical impact. Every project I work on is an opportunity to learn, improve, and contribute to the developer community.
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
-</div>
-
-# 💡 Currently Building
-
-- 🤖 Multi-Agent AI Systems
-- 🧠 Large Language Model Applications
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI & Backend Services
-- ☁️ Production-Ready AI Applications
-
-
+</div> <br/> <!-- ========================= PHILOSOPHY ========================= --> <div align="center">
+"Technology becomes meaningful when it solves real-world problems."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:9d7cd8&height=100&section=footer" alt="" width="100%"/> </div>
