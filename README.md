@@ -81,7 +81,7 @@ I love transforming ideas into practical software while continuously learning ne
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,HTML" />
+<img src="https://skillicons.dev/icons?i=python,java,html" />
 </p>
 
 ### ⚙️ Frameworks & Technologies
@@ -104,27 +104,9 @@ I love transforming ideas into practical software while continuously learning ne
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChanduChowday25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduChowday25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ChanduChowday25&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
