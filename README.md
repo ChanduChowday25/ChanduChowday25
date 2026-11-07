@@ -17,8 +17,6 @@ My interests include:
 I love transforming ideas into practical software while continuously learning new technologies and improving my development skills.
 
 <br>
-🚀 Current Focus
-
 🌱 Currently Learning
 
 LangGraph
