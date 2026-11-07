@@ -29,7 +29,6 @@ Build production-ready AI applications
 Contribute to Open Source
 Strengthen Data Structures & Algorithms
 <div align="center">
-⭐ Thanks for visiting my profile ⭐
 </div> # 🛠️ Tech Stack <div align="center">
 👨‍💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=python,java,html" /> </p>
