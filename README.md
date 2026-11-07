@@ -152,7 +152,7 @@ I enjoy building scalable software and AI-powered applications that create pract
 If you like my work, consider ⭐ starring my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> </div>
-💡 - Currently Building</div>
+💡 - Currently Building
 🤖 - Multi-Agent AI Systems
 🧠 - Large Language Model Applications
 📚 - Retrieval-Augmented Generation (RAG)
