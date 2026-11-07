@@ -58,12 +58,6 @@ AI-powered platform that intelligently matches candidates with suitable jobs bas
 🔹 Database Integration
 
 <br> <a href="https://github.com/ChanduChowday25/Job_Recommondation_System"> <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-📌 Project Coming Soon
-
-🚀 AgentOS
-
-Multi-Agent AI Platform powered by LLMs.
-
 🚀 Featured Projects
 <div align="center"> <table> <tr> <td width="50%">
 💼 Job Recommendation System
